@@ -6,9 +6,9 @@ function FunctionComponent() {
 
         <h4>Student Information</h4>
 
-        <p><strong>Name:</strong> Student</p>
+        <p><strong>Name:</strong> Janvi</p>
         <p><strong>Course:</strong> M.Sc IT</p>
-        <p><strong>Semester:</strong> 4</p>
+        <p><strong>Semester:</strong> 7</p>
       </div>
     </div>
   );
